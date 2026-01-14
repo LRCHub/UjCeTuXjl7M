@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "The Fantasy",
+  "base_artist": "Thirty Seconds To Mars",
+  "createdAt": "2026-01-14T03:40:24.624634Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mike Morowaitz, the Fantasy Fuck",
+      "artist": "Daughters",
+      "has_synced": false,
+      "path": "select/01_Mike_Morowaitz,_the_Fantasy_Fuck_Daughters.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Fantasy",
+      "artist": "Thirty Seconds To Mars",
+      "has_synced": true,
+      "path": "select/02_The_Fantasy_Thirty_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Fantasy",
+      "artist": "30 Seconds To Mars",
+      "has_synced": true,
+      "path": "select/03_The_Fantasy_30_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shoot Out at the Fantasy Factory",
+      "artist": "Traffic",
+      "has_synced": true,
+      "path": "select/04_Shoot_Out_at_the_Fantasy_Factory_Traffic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mike Morowitz, the Fantasy Fuck",
+      "artist": "Daughters",
+      "has_synced": false,
+      "path": "select/05_Mike_Morowitz,_the_Fantasy_Fuck_Daughters.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shootout At The Fantasy Factory",
+      "artist": "Traffic",
+      "has_synced": true,
+      "path": "select/06_Shootout_At_The_Fantasy_Factory_Traffic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shoot Out At the Fantasy Factory (Remastered)",
+      "artist": "Traffic",
+      "has_synced": false,
+      "path": "select/07_Shoot_Out_At_the_Fantasy_Factory_(Remastered)_Traffic.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Over the FANTASY",
+      "artist": "植田佳奈",
+      "has_synced": false,
+      "path": "select/08_Over_the_FANTASY_植田佳奈.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Over the FANTASY [ORIGINAL MIX/Instrumental]",
+      "artist": "Kana Ueda",
+      "has_synced": false,
+      "path": "select/09_Over_the_FANTASY_[ORIGINAL_MIX_Instrumental]_Kana_Ueda.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Over the FANTASY [ORIGINAL MIX]",
+      "artist": "Kana Ueda",
+      "has_synced": true,
+      "path": "select/10_Over_the_FANTASY_[ORIGINAL_MIX]_Kana_Ueda.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Fantasy (instrumental)",
+      "artist": "30 Seconds to Mars",
+      "has_synced": true,
+      "path": "select/11_The_Fantasy_(instrumental)_30_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Fantasy",
+      "artist": "Thirty Seconds to Mars",
+      "has_synced": true,
+      "path": "select/12_The_Fantasy_Thirty_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Fantasy",
+      "artist": "30 Seconds To Mars",
+      "has_synced": true,
+      "path": "select/13_The_Fantasy_30_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shoot Out At The Fantasy Factory",
+      "artist": "Steve Winwood",
+      "has_synced": false,
+      "path": "select/14_Shoot_Out_At_The_Fantasy_Factory_Steve_Winwood.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Fantasy",
+      "artist": "Thirty Seconds to Mars",
+      "has_synced": false,
+      "path": "select/pl_01_The_Fantasy_Thirty_Seconds_to_Mars.txt"
+    }
+  ]
+}
